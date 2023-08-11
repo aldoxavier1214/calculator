@@ -2,7 +2,7 @@
     <head>  
     <meta charset="utf-8">  
     <title>  
-         Calculator using HTML Example  
+         Calculator  
     </title>  
     <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">  
     <!-- CSS property to create interactive  
@@ -72,7 +72,7 @@ border-top: 2px #6f6f6f solid;
 margin-bottom: 10px;  
 margin-top: 30px;  
 padding: 5px 0;  
-font-size: 40px;  
+font-size: 90px;  
 font-weight: bold;  
 text-align: center;  
 color: black;  
@@ -127,8 +127,8 @@ line-height: 10px;
 </style>  
 </head>  
 <body>  
-    <div class = "title? align="centre">  
-        Example of Calculator using HTML  
+    <div class>  
+         Calculator  
     </div>  
     <div class="box">    
         <div class="display">  
